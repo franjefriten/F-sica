@@ -1,0 +1,15 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {1}{\ignorespaces Representación del random walk para 100 saltos con 5000 iteraciones\relax }}{2}{figure.caption.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2}{\ignorespaces Gráficos de los de las simulaciones para N = 100, 1000, 2000\relax }}{3}{figure.caption.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3}{\ignorespaces Gráficos de los de las simulaciones para I = 100, 1000, 2000\relax }}{4}{figure.caption.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4}{\ignorespaces Desviación típica en función del número de saltos. Los puntos son los cálculos numéricos y la curva es la fórmula teórica para $\sigma $\relax }}{5}{figure.caption.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {5}{\ignorespaces Distribución de probabilidad de ambas coordenadas para probabilidades N = 0.5, S = 0, O = 0, E = 0.5\relax }}{6}{figure.caption.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {6}{\ignorespaces Distribución de probabilidad de ambas coordenadas para probabilidades N = 0.1, S = 0.4, O = 0.4, E = 0.1\relax }}{7}{figure.caption.8}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {7}{\ignorespaces Datos numéricos del valor esperado de cada coordenada junto con su la curva de su fórmula general $\mu = N(p-q)$\relax }}{8}{figure.caption.9}%
